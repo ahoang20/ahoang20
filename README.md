@@ -23,7 +23,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-fcf51c?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-c90e11?style=flat-square&logo=java)
 
 <!--
 **ahoang20/ahoang20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
